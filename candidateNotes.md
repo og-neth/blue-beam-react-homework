@@ -1,9 +1,9 @@
 ## Notes
 
 Frameworks I added
-*Flux
-*Immutable
-*React-Bootstrap
+- Flux
+- Immutable
+- React-Bootstrap
 
 Approach and steps taken into the design of the app
 
