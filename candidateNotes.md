@@ -1,5 +1,10 @@
 ## Notes
 
+Frameworks I added
+*Flux
+*Immutable
+*React-Bootstrap
+
 Approach and steps taken into the design of the app
 
 1. Started with layout, leveraging bootstrap so I could simulate having a comp or wire-frame to reference and apply the requirements to.
@@ -11,7 +16,7 @@ Approach and steps taken into the design of the app
 
 General comments:
 
-Overall my goals were to showcase primarily my JavaScript Engineering, Application State Design, Application Structure and Architecture. I wanted to overdo it on purpose to just show my experience building Rich Internet Applications. Keeping it simple for this exercise was not my goal, I wanted to bring everything to the table so we can hopefully discuss it. 
+Overall my goals were to showcase primarily my JavaScript Engineering, Application State Design, Application Structure and Architecture for a Production Level App. I wanted to overdo it on purpose to just show my experience building Rich Internet Applications. Keeping it simple for this exercise was not my goal, I wanted to bring everything to the table so we can hopefully discuss it. 
 
 I chose to use a grid system for the detection of the winning combo, initially I wanted to use this grid system to also add a vs. CPU mode, however I just couldn't get enough time, but that was the initial thought of the use for the grid system and storing the moves within a combo object. Fun project I can spend more hours on for sure, and maybe I will add the CPU mode for kicks. 
 
