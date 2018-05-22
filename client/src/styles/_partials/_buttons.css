@@ -1,0 +1,18 @@
+/*////BUTTONS____*/
+:root {
+  --dark-charcoal: #373737;
+  --off-white: #e3e3e3;
+  --player-one: lightskyblue;
+  --player-two: yellowgreen;
+  --modal-bg-color: powderblue;
+  --btn-default-bg-color: DarkSeaGreen ;
+}
+
+.btn {
+    border-radius: 0 !important;
+  }
+
+  .btn-default {
+    background-color: var(--btn-default-bg-color);
+    border-color: var(--dark-charcoal);
+  }

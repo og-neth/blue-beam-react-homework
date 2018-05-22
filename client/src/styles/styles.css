@@ -1,0 +1,40 @@
+/* @import '~bootstrap/dist/css/bootstrap.min.css'; */
+:root {
+  --dark-charcoal: #373737;
+  --off-white: #e3e3e3;
+}
+
+body {
+  box-sizing: border-box;
+  background-color: var(--dark-charcoal);
+  color: var(--off-white);
+}
+
+header {
+  text-transform: uppercase;
+  font-size: 3em;
+  background-color: powderblue ;
+  color: var(--dark-charcoal)
+}
+
+#root {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+}
+
+@import './_partials/_board.css';
+@import './_partials/_buttons.css';
+@import './_partials/_forms.css';
+@import './_partials/_modals.css';
+@import './_partials/_leaderBoard.css';
+
+
+
+
+
+
+
+
+
+

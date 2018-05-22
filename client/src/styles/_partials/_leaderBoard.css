@@ -1,0 +1,36 @@
+:root {
+    --dark-charcoal: #373737;
+    --off-white: #e3e3e3;
+    --player-one: lightskyblue;
+    --player-two: yellowgreen;
+  }
+
+@keyframes slideLeft {
+    from {
+        left: -500px;
+    }
+    to {
+        left: 0;
+    }
+}
+
+.leader-board-container {
+    display: none;
+}
+.leader-board-container.true {
+    display: block;
+}
+
+.leader-board {
+    position: absolute;
+    background-color: paleturquoise;
+    color: var(--dark-charcoal);
+    padding: 20px;
+    top: 25%;
+    left: -500px;
+    z-index: 555555;
+}
+
+.leader-board.true {
+    transform: translateX(500px)
+}

@@ -1,0 +1,220 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "username": "Bill",
+      "games": {
+        "win": 4,
+        "loss": 0,
+        "draw": 0
+      }
+    },
+    {
+      "id": 3,
+      "username": "Rachel",
+      "games": {
+        "win": 3,
+        "loss": 0,
+        "draw": 0
+      }
+    },
+    {
+      "id": 2,
+      "username": "Mike",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      }
+    },
+    {
+      "username": "Kenneth",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 4
+    },
+    {
+      "username": "Ken",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 5
+    },
+    {
+      "username": "Cin",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 6
+    },
+    {
+      "username": "Cin",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 7
+    },
+    {
+      "username": "Ken",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 8
+    },
+    {
+      "username": "Ken",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 9
+    },
+    {
+      "username": "Ray",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 10
+    },
+    {
+      "username": "Mike",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 11
+    },
+    {
+      "username": "Kyle",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 12
+    },
+    {
+      "username": "Igor",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 13
+    },
+    {
+      "username": "Mrinal",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 14
+    },
+    {
+      "username": "Butch",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 15
+    },
+    {
+      "username": "Arial",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 16
+    },
+    {
+      "username": "Freeze",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 17
+    },
+    {
+      "username": "Foster",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 18
+    },
+    {
+      "username": "Kenneth",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 19
+    },
+    {
+      "username": "Cindy",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 20
+    },
+    {
+      "username": "Butch",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 21
+    },
+    {
+      "username": "Cassidy",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 22
+    },
+    {
+      "username": "Les",
+      "games": {
+        "win": 1,
+        "loss": 0,
+        "draw": 0
+      },
+      "id": 23
+    },
+    {
+      "username": "Sig",
+      "games": {
+        "win": 0,
+        "loss": 1,
+        "draw": 0
+      },
+      "id": 24
+    }
+  ]
+}

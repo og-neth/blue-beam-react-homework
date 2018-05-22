@@ -1,0 +1,26 @@
+:root {
+    --dark-charcoal: #373737;
+    --off-white: #e3e3e3;
+    --player-one: lightskyblue;
+    --player-two: yellowgreen;
+    --modal-bg-color: powderblue;
+  }
+
+/*////MODALS____*/
+
+.modal-content {
+    border-radius: 0;
+  }
+  
+  .modal-header, .modal-footer {
+    border: none;
+  }
+  
+  .modal-content {
+    color: var(--dark-charcoal);
+    background-color: var(--modal-bg-color);
+  }
+
+  .table-bordered, .table-bordered>thead>tr>th, .table-bordered>tbody>tr>td {
+    border-color: #46b8da !important;
+  }
